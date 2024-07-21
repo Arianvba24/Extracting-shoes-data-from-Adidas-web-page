@@ -1,0 +1,1 @@
+# Extracting-shoes-data-from-Adidas-web-page
