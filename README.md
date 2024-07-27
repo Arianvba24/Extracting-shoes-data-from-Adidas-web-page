@@ -23,4 +23,39 @@ Second one is possible to trespass but we must use Selenium or Playwright and **
 
 What are we gonna do? Instead of going page by page scrapping we will scrappe **ALL PAGES** at once 
 
-Let's check this out:
+Let's check this out.
+
+The whole procedure is divided in 5 videos(**only 3 minutes in total**) due to Github space problems
+
+
+https://github.com/user-attachments/assets/02d8b465-194d-47a1-be6e-39662a684cd2
+
+
+https://github.com/user-attachments/assets/3c944f75-3bae-4e2f-b6ad-dcbfa75bffda
+
+
+https://github.com/user-attachments/assets/bc3ef907-707d-4c74-9428-f6ce96eff453
+
+
+https://github.com/user-attachments/assets/39655e01-7a72-46d3-b912-b22f65e321b2
+
+
+https://github.com/user-attachments/assets/d7c9a3ac-1fff-46ff-bedd-3f23801d7513
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
