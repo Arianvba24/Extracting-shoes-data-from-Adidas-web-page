@@ -12,7 +12,7 @@ First procedure is has to be done only once a weak at most. You probably are ask
 Once we get the IDs and do the https requests we find another security barrier in the API
 ![image](https://github.com/user-attachments/assets/1dc762b0-b34f-494e-a309-4682a318204b)
 
-We can find to kind of security barriers:
+We can find two kinds of security barriers:
 
 - Javascript generated credentials to access the API
 - Javascript anti-scrape barrier
